@@ -1,0 +1,31 @@
+*---------------------------------------------------------------------------------*
+|                                                                                 |
+|      ??   ??    ??????    ??    ??      ??????   ??  ????    ??  ??????         |
+|      ??  ??     ??         ??  ??       ??       ??  ?? ??   ??  ??    ??       |
+|      ?????      ??????      ????        ??????   ??  ??  ??  ??  ??     ??      |
+|      ??  ??     ??           ??         ??       ??  ??   ?? ??  ??    ??       |
+|      ??   ??    ??????       ??         ??       ??  ??    ????  ??????         |
+|                                                                                 |
+*---------------------------------------------------------------------------------*
+
+The object of the game is to find your keys!  Each room will have different objects 
+to look through to find them.  You only have a limited time to look.  You will be
+able to look through 15 places before the game is over. There are six rooms. There
+are 3 sets of keys that you have to find. 
+
+Here is a Map of the house. You will start in the Family Room. Each room will have 
+multiple places to look. Good luck! 
+
+
+               _____MAP___________________________________________
+               |              |               |                   |
+               |  Bedroom 1   |  Dining Room  |                   |
+               |                                                  |
+               |              |               |    Kitchen        |
+               |_____   ______|______     ____|                   |
+               |          |                   |____________   ____|
+               |  Den     |    Family Room    |                   |
+               |                              |                   |
+               |          |                       Bedroom 2       |
+               |__________|____________|\_____|___________________|
+                                    Front Door
